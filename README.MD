@@ -9,3 +9,5 @@ What's Training? is an addon for Turtle WoW that adds a list of available traine
 ![What's Training Missing and Known sections](./images/missing-and-known.png "What's Training Missing and Known sections")
 
 Please feel free to create any issues.
+
+a
